@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tacit17
-- 👀 I’m interested in python, supervised and unsupervised ML, Data Scaling, Data Modeling and physics
-- 🌱 I’m currently learning ML and AI.  Curently My program is covering linear algebra
-- 💞️ I’m just stated collaborate projects with Obedena 
-- 📫 How to reach me via gethub
+- 👋 Hi, I’m George Noble and my github user name is @tacit17
+- 👀 I’m interested in python, supervised and unsupervised ML, algoritms, Data Modeling and physics
+- 🌱 I apply physics and research abilites into my projects 
+- 💞️ I have completed in games, computer vision, audio processing 
+- 📫 How to reach me on github @tacit17
 <!---
 tacit17/tacit17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
